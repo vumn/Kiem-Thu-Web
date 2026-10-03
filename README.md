@@ -1,0 +1,15 @@
+## Selenium
+
+1. Cài đặt selenium:
+   `pip install selenium`
+2. Để chạy chương trình:
+   `pytest "your_test_file".py`
+
+## Pytest
+
+1. Cài đặt pytest:
+   `pip install pytest`
+2. Để thực hiện chương trình nhập lệnh vào terminal:
+   `pytest "your_test_file".py`
+   - có thể truyền tham số `-v` vào câu lệnh để hiển thị kết quả kiểm thử một cách chi tiết hơn:
+     `pytest -v "your_test_file".py`
