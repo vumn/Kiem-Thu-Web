@@ -1,4 +1,4 @@
-# Ghi chú Bài tập Tuần 05 - ThảoHT
+# Ghi chú Bài tập Tuần 05 - Thao
 
 ## 1. Trả lời câu hỏi đọc tài liệu
 - **Định vị ô login ổn định nhất:** Dùng `By.ID` vì ID là thuộc tính duy nhất trên trang web.
